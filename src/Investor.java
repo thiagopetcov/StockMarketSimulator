@@ -9,6 +9,11 @@ public class Investor {
 	private double budget;
 	private String Investor;
 	
+	//int [] array = new int[100];                       // Sorted Array of 100
+	//for (int a = 0; a < array.length; a++) {
+	   // array[a] = a + 1;
+	//}
+	
 
     String[] shares = new String[]{"ARM", "IBM", "Google", "Facebook", "Twitter", "Samsung", "Lenovo", "Intel"};
 
